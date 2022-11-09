@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add quantization support to TensorFlow.js converter (#7008)
