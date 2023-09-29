@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
